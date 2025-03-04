@@ -25,7 +25,7 @@ rigs.
   <tr>
     <td><img src="../assets/animation/animation-editor/Controls-Animation-Name.png"
    width="100%" /></td>
-    <td>The name of the animation.</td>
+    <td>Bold Idle.</td>
   </tr>
   <tr>
     <td><img src="../assets/animation/animation-editor/Controls-File-Menu.png"
